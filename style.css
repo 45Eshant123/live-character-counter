@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+.counter-box {
+  border: 1px solid #333;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.char-count {
+  margin-top: 8px;
+  font-weight: bold;
+}
